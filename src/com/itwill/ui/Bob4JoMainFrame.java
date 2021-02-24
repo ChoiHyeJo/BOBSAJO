@@ -50,7 +50,7 @@ public class Bob4JoMainFrame extends JFrame {
 	private JPanel administratorPanel;
 	private JTabbedPane adminTabbedPane;
 	private AdministratorStoreSetPanel administratorStoreSetPanel;
-	private AdministratorMemberSetPanel administratorMemberSetPanel;
+	private AdministratorMemberSetPanel  administratorMemberSetPanel;
 	private AdministratorFoodSetPanel administratorFoodSetPanel;
 	/*
 	 * Launch the application.
